@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+  padding: 1em;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: #fff;
+  padding: 1em;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+.category {
+  margin-top: 2em;
+}
+
+.penalty-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1em;
+  margin: 0.5em 0;
+  background: #fafafa;
+}
+
+.penalty-card button {
+  margin-top: 0.5em;
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.summary {
+  margin-top: 2em;
+  background: #eef;
+  padding: 1em;
+  border-radius: 6px;
+}
+
+
+
